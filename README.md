@@ -25,7 +25,7 @@
     <a href="https://fabiomtgoncalves.github.io/portfolio/files/FabioGoncalves_CV_pt.pdf">
       <img src="https://img.shields.io/badge/CV-Portuguese-blue?style=for-the-badge&logo=readdotcv" alt="CV - Portuguese"/>
     </a>
-</div> 
+</div>  
 
 <!--<h1 align="center">Fábio Gonçalves</h1>  
 
