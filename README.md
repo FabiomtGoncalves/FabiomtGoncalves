@@ -6,7 +6,7 @@
 <h3 align="center">Currently working with:</h3>  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,java,spring,dotnet,mysql" />  
+    <img src="https://skillicons.dev/icons?i=angular,java,spring,mysql,dotnet" />  
 </p>  
 
 <div align="center"><a href="https://www.linkedin.com/in/fabiomtgoncalves/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
