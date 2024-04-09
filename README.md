@@ -1,12 +1,12 @@
-<p align="center">
+<div align="center">
     Bachelor's Degree in Computer Science.  
     Application Developer at [Eviden](https://eviden.com/).  
-</p>  
+</div>  
 
 <h3 align="center">Currently developing with:</h3>  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,java,spring,dotnet,mysql" />
+    <img src="https://skillicons.dev/icons?i=angular,java,spring,dotnet,mysql" />  
     <a href="https://www.linkedin.com/in/fabiomtgoncalves/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
