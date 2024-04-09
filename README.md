@@ -27,6 +27,8 @@
     </a>
 </div>  
 
+<br/>  
+
 <!--<h1 align="center">Fábio Gonçalves</h1>  
 
 <h3 align="center">Languages and Tools:</h3>
