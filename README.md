@@ -1,6 +1,6 @@
 <div align="center">
-    Bachelor's Degree in Computer Science.  
-    Application Developer at <a href="https://www.linkedin.com/in/fabiomtgoncalves/">Eviden</a>.  
+    Bachelor's Degree in Computer Science.  <br/>
+    Application Developer at <a href="https://eviden.com/" target="_blank">Eviden</a>.  
 </div>  
 
 <h3 align="center">Currently developing with:</h3>  
