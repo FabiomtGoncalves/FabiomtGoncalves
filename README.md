@@ -3,7 +3,7 @@
     Application Developer at <a href="https://eviden.com/" target="_blank">Eviden</a>.  
 </div>  
 
-<h3 align="center">Currently developing with:</h3>  
+<h3 align="center">Currently working with:</h3>  
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=angular,java,spring,dotnet,mysql" />  
