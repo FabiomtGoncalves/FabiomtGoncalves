@@ -9,21 +9,23 @@
     <img src="https://skillicons.dev/icons?i=angular,java,spring,dotnet,mysql" />  
 </p>  
 
-<p align="center">
+<div align="center">
     <a href="https://www.linkedin.com/in/fabiomtgoncalves/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="mailto:fabio.mt.goncalves@gmail.com">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Mail.ru" alt="Email"/>
     </a>  
+</div>  
+
+<div align="center">
     <a href="https://fabiomtgoncalves.github.io/portfolio/files/FabioGoncalves_CV_en.pdf">
       <img src="https://img.shields.io/badge/CV-English-blue?style=for-the-badge&logo=readdotcv" alt="CV - English"/>
     </a>
     <a href="https://fabiomtgoncalves.github.io/portfolio/files/FabioGoncalves_CV_pt.pdf">
       <img src="https://img.shields.io/badge/CV-Portuguese-blue?style=for-the-badge&logo=readdotcv" alt="CV - Portuguese"/>
     </a>
-</p>  
-
+</div> 
 
 <!--<h1 align="center">Fábio Gonçalves</h1>  
 
