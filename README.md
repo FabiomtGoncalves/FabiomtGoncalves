@@ -1,7 +1,6 @@
 <div align="center">
     Bachelor's Degree in Computer Science.  
-    [Eviden](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/)
-    Application Developer at [Eviden](https://eviden.com/).  
+    Application Developer at <a href="https://www.linkedin.com/in/fabiomtgoncalves/">Eviden</a>.  
 </div>  
 
 <h3 align="center">Currently developing with:</h3>  
