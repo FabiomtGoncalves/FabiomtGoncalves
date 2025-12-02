@@ -1,6 +1,6 @@
 <div align="center">
     Bachelor's Degree in Computer Science.  <br/>
-    Application Developer at <a href="https://atos.net/" target="_blank">Atos</a>.  
+    Software Developer at <a href="https://atos.net/" target="_blank">Atos</a>.  
 </div>  
 
 <h3 align="center">Currently working with:</h3>  
